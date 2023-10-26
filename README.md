@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vũ Đức Phương (Tony) - CTO at POLI co.,ltd
 - 👀 I’m interested in Distributed System
-- 🌱 I’m currently learning Solution Architect
 - 💞️ I’m looking to collaborate on make a SaaS
 
 <!---
